@@ -26,11 +26,14 @@
 
 ## Setup
 ``` 
-git clone https://github.com/anfederico/Flaskex
-cd Flaskex
+git clone https://github.com/xxxREDBORNxxx/flaskex.git
+cd flaskex
 pip install -r requirements.txt
 python app.py
 ```
 
 ## Contributing
+This branch is a copy of the branch https://github.com/anfederico/Flaskex
+It is not used for commercial purposes (to perform a test task)
+Copyright holder anfederico.
 Please take a look at our [contributing](https://github.com/anfederico/Flaskex/blob/master/CONTRIBUTING.md) guidelines if you're interested in helping!
